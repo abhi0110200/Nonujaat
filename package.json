@@ -1,5 +1,5 @@
 {
-  "name": "cookies-md-abhi-jaat",
+  "name": "nonu-jaat-cookies-md",
   "version": "1.0.0",
   "type": "module",
   "main": "index.js",
@@ -9,6 +9,6 @@
   "dependencies": {
     "@whiskeysockets/baileys": "latest",
     "express": "latest",
-    "cookies-md": "latest"
+    "@cookies-md/core": "latest"
   }
 }
